@@ -2,7 +2,8 @@
 Pattern Processing Tool
 
 We always find it difficult to process very large text/log files and fetch only necessary information from it. 
-This tool can be used to process a very large text/log file, fetch necessary information from it and store it in a variable of user's own choice. Once the required data is retrieved and stored in a variable, then it will be easier to group them as a dataset which can even be input to ML algorithms.
+
+This python based tool can be used to process a very large text/log file, fetch necessary information from it and store it in a variable of user's own choice. Once the required data is retrieved and stored in a variable, then it will be easier to group them as a dataset which can even be input to ML algorithms.
 
 What to input to this tool ?
 ===============================
