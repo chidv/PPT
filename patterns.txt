@@ -1,0 +1,4 @@
+Authentication Timeout ${auth_timeout_count, space}
+IOT_COUNT:$ {activation_count,space} {acti_duration, space} {rejected_devices, space}
+Current IOT device authenticated count is:$ {auth_count, eol}
+Current IOT device rejected count is:$ {rej_count, eol}
